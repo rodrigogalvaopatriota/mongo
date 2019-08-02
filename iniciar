@@ -1,0 +1,4 @@
+abre o cmd
+cd C:\Users\tr642633\Documents\desenvolvimento\mongo\bin 
+mongod
+no cmd aparece as informações sobre a inicialização do processo do mongo
